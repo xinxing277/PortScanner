@@ -1,2 +1,2 @@
 # PortScanner
-later i will add
+a simple PortScanner with GUI
